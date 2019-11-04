@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Aquatic</title>
+	<link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+		<div>
+			<div id="topPan">
+				<a href="index.html">
+					<img class="logo" src="images/logo.gif" alt="Aquatic" width="136" height="31" border="0" title="Aquatic"/></a>
+				<p class="caption">Aquarium fishes and plants</p>
+			</div>
+
+			<div id="headerPan">
+				<ul class="leftmenu">
+					<li><a href="index.html">Home</a></li>
+					<li><a href="#">Fishes</a></li>
+					<li><a href="#">Plants</a></li>
+					<li class="clients"><a href="#">About us</a></li>
+
+				</ul>
+			</div>
+			<div id="bodyPan">
+				<div id="leftPan">
+					<h2>Fishes</h2>
+					<ul>
+						<li><a href="http://people.duke.edu/~geoffb/pictures/favia.jpg">Coral Moon</a></li>
+						<li><a href="https://previews.123rf.com/images/juancarlospalaudaz/juancarlospalaudaz1608/juancarlospalaudaz160800015/64148178-goldfish-red-oranda.jpg">Red Oranda</a></li>
+						<li><a href="https://i.pinimg.com/originals/e5/23/af/e523af83cafc75af0182643e63b61b61.jpg">Hifin Moon</a></li>
+						<li><a href="https://riverpark.biz/311-large_default/long-finned-zebra-danio.jpg">Zebra Danio</a></li>
+						<li><a href="https://cdn.shopify.com/s/files/1/0855/3388/products/6353_1024x1024.jpeg?v=1441110967">Yellow Tang</a></li>
+						<li><a href="https://cdn.shopify.com/s/files/1/0855/3388/products/6259_1024x1024.jpeg?v=1441109836">Royal Gramma</a></li>
+						<li><a href="https://commondatastorage.googleapis.com/swf_product_images/marine_life/221_raccoon-butterfly_1.jpg">Butterflyfish</a></li>
+					</ul>
+					<h2>Plants</h2>
+					<ul>
+						<li><a href="http://cdn.shopify.com/s/files/1/1977/5861/products/Cabomba_Caroliniana_3_1200x1200.jpg?v=1536186272">Cabomba</a></li>
+						<li><a href="https://cdn.shopify.com/s/files/1/1163/2672/products/Water-Wisteria-1_1024x1024.jpg?v=1506542262">Wisteria</a></li>
+						<li><a href="https://sites.google.com/site/jamsaquariumslovethehobby/_/rsrc/1462837907536/plants/myrio---red/Image.jpg?height=400&width=343">Red Myrio</a></li>
+						<li><a href="https://images-na.ssl-images-amazon.com/images/I/51MPhSObNnL._SX466_.jpg">Anacharis</a></li>
+						<li><a href="https://images-na.ssl-images-amazon.com/images/I/91cY-1xB4fL._SX466_.jpg">Water Sprite</a></li>
+						<li><a href="https://images-na.ssl-images-amazon.com/images/I/512SWhN9UNL.jpg">Hornwort</a></li>
+					</ul>
+				</div>
+				<div id="rightPan">
+					<p class="more"><a href="#">live fish</a></p>
+
+					<p class="justify">
+						<img src="images/fish.jpg" align="left" alt="Live Fish" style="margin-right: 15px;"/>
+						Freshwater fish are those that spend some or all of their lives in fresh water, such as rivers and lakes, with a salinity of less than 1.05%. These environments differ from marine conditions in many ways, the most obvious being the difference in levels of salinity. To survive fresh water, the fish need a range of physiological adaptations.
+					</p>
+
+					<p class="more"><a href="#">live plants</a></p>
+
+					<p class="justify">
+						<img src="images/plant.jpg" align="left" alt="LivePlants" title="Live Plants" style="margin-right: 15px;"/>
+						Some people choose artificial plants over living aquarium plants because they think live plants will be too difficult to look after.Don’t let that put you off. Plants not only look great in a fish aquarium, but they provide a whole host of other amazing benefits. They act as great filtration, provide the water with oxygen, absorb carbon dioxide created by tank inhabitants, combat algae growth and provide shelter for your fish to hide in.
+					</p>
+
+					<p class="more"><a href="#">aquarium</a></p>
+
+					<p class="justify">
+						<img src="images/aquarium.jpg" align="left" alt="Aquarium" title="Aquarium" style="margin-right: 15px;"/>
+
+						An aquarium (plural: aquariums or aquaria) is a vivarium of any size having at least one transparent side in which aquatic plants or animals are kept and displayed. Fishkeepers use aquaria to keep fish, invertebrates, amphibians, aquatic reptiles such as turtles, and aquatic plants. The term "aquarium", coined by English naturalist Philip Henry Gosse, combines the Latin root aqua, meaning water, with the suffix -arium, meaning "a place for relating to".
+					</p>
+				</div>
+			</div>
+		</div>
+
+		<div id="footermainPan">
+			<div id="footerPan">
+				<ul>
+					<li><a href="index.html">Home</a>| </li>
+					<li><a href="#">Fishes</a>| </li>
+					<li><a href="#">Plants</a>| </li>
+					<li><a href="#">About us</a>| </li>
+				</ul>
+				<p class="copyright">@ 2019 Aquatic. All right reserved.</p>
+			</div>
+		</div>
+</body>
+</html>
